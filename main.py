@@ -7,8 +7,6 @@ Infos: An program that shows you the Basics infos about an Pokemon.
 
 '''
 
-#Location: C:\Users\amna_\OneDrive\Dokumente\Codes,program\Python files
-
 from tkinter import *
 import requests
 
